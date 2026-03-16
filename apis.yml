@@ -1,11 +1,40 @@
+aid: jms
 name: JMS
-description: JMS is a technology or concept used in computing and information technology
-  to address specific technical challenges. It provides capabilities that help practitioners
-  build, manage, or improve systems and processes in their domain.
-url: null
+description: >-
+  Java Message Service (JMS) is a Java API that allows applications to create,
+  send, receive, and read messages. It defines a common enterprise messaging API
+  for loosely coupled, reliable, and asynchronous communication between
+  distributed application components.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- JMS
-created: '2025'
-modified: '2025'
-apis: []
-common: []
+  - JMS
+  - Java
+  - Messaging
+  - Enterprise Integration
+url: https://raw.githubusercontent.com/api-evangelist/jms/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis:
+  - aid: jms:jms
+    name: Java Message Service
+    description: >-
+      The Java Message Service API specification for enterprise messaging and
+      asynchronous communication between distributed components.
+    humanURL: https://jakarta.ee/specifications/messaging/
+    tags:
+      - Messaging
+      - Java
+      - Enterprise Integration
+    properties:
+      - type: Documentation
+        url: https://jakarta.ee/specifications/messaging/
+common:
+  - type: Website
+    url: https://jakarta.ee/specifications/messaging/
+  - type: Documentation
+    url: https://jakarta.ee/specifications/messaging/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
