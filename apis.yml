@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - JMS
-  - Java
-  - Messaging
   - Enterprise Integration
+  - Java
+  - JMS
+  - Messaging
 url: https://raw.githubusercontent.com/api-evangelist/jms/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-03-16'
@@ -24,9 +24,9 @@ apis:
       asynchronous communication between distributed components.
     humanURL: https://jakarta.ee/specifications/messaging/
     tags:
-      - Messaging
-      - Java
       - Enterprise Integration
+      - Java
+      - Messaging
     properties:
       - type: Documentation
         url: https://jakarta.ee/specifications/messaging/
