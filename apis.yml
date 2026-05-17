@@ -41,14 +41,14 @@ apis:
         url: https://jakarta.ee/specifications/messaging/2.0/
       - type: JavaDoc
         url: https://jakarta.ee/specifications/messaging/3.1/apidocs/
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/jakartaee/messaging
 common:
   - type: Website
     url: https://jakarta.ee/specifications/messaging/
   - type: Documentation
     url: https://jakarta.ee/specifications/messaging/3.1/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/jakartaee
   - type: Issues
     url: https://github.com/jakartaee/messaging/issues
