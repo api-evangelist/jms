@@ -56,6 +56,10 @@ apis:
       - type: GitHubRepository
         url: https://github.com/jakartaee/messaging
 common:
+  - type: CodeOfConduct
+    url: https://github.com/jakartaee/.github/blob/master/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/jakartaee/messaging/blob/master/CONTRIBUTING.md
   - type: DomainSecurity
     url: security/jms-domain-security.yml
   - type: Website
