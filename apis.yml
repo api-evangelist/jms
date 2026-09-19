@@ -37,6 +37,13 @@ tags:
   - Java
   - JMS
   - Messaging
+  - Standards
+tags_raw:
+  - Enterprise Integration
+  - Jakarta EE
+  - Java
+  - JMS
+  - Messaging
   - Standard
 url: https://raw.githubusercontent.com/api-evangelist/jms/refs/heads/main/apis.yml
 created: '2025-01-01'
