@@ -1,4 +1,4 @@
-# JMS (jms)
+# jms
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,54 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Java Message Service (JMS), now known as Jakarta Messaging, is a Java API that allows applications to create, send, receive, and read messages. It defines a common enterprise messaging API for loosely coupled, reliable, and asynchronous communication between distributed application components. Current release is Jakarta Messaging 3.1 (Jakarta EE 10).
+## jms on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/jms/refs/heads/main/apis.yml)
+Everything profiled for jms is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/jms/](https://apis.io/providers/jms/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Not yet rated. See [apis.io/providers/jms/](https://apis.io/providers/jms/).
 
-## Tags:
+## How this profile is made
 
- - JMS, Java, Messaging, Enterprise Integration, Jakarta EE, Standard
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for jms: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## Open an issue
 
-## APIs
-
-### Jakarta Messaging
-The Jakarta Messaging (formerly Java Message Service) specification for enterprise messaging and asynchronous communication between distributed components. Defines point-to-point queues and publish/subscribe topics with guaranteed delivery semantics.
-
-**Human URL:** [https://jakarta.ee/specifications/messaging/](https://jakarta.ee/specifications/messaging/)
-
-
-#### Tags:
-
- - Messaging, Java, Enterprise Integration
-
-#### Properties
-
-- [Specification (3.1)](https://jakarta.ee/specifications/messaging/3.1/)
-- [Specification (3.0)](https://jakarta.ee/specifications/messaging/3.0/)
-- [Specification (2.0)](https://jakarta.ee/specifications/messaging/2.0/)
-- [JavaDoc](https://jakarta.ee/specifications/messaging/3.1/apidocs/)
-- [GitHub Repository](https://github.com/jakartaee/messaging)
-
-## Common Properties
-
-- [Website](https://jakarta.ee/specifications/messaging/)
-- [Documentation](https://jakarta.ee/specifications/messaging/3.1/)
-- [GitHub Organization](https://github.com/jakartaee)
-- [Issues](https://github.com/jakartaee/messaging/issues)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/jms/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
